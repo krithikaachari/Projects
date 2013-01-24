@@ -1,0 +1,24 @@
+Using the default profile...
+Feature: Logon to instagram
+  verify a positive login
+  verify a negative login
+
+  Scenario: User authentication - Positive        # features\login.feature:5
+    Given I am on the instagram login page        # features/step_definitions/login_steps.rb:1
+    And I give "EATest" for username              # features/step_definitions/login_steps.rb:5
+    And I give "EATest123" for password           # features/step_definitions/login_steps.rb:11
+    When I click on the login button              # features/step_definitions/login_steps.rb:17
+    Then I should land on edit profile page       # features/step_definitions/login_steps.rb:23
+    And I should have "eatest" on top of the page # features/step_definitions/login_steps.rb:29
+
+  Scenario: User authentication - Negative # features\login.feature:13
+    Given I am on the instagram login page # features/step_definitions/login_steps.rb:1
+    And I give "EATest" for username       # features/step_definitions/login_steps.rb:5
+    And I give "EATest1234" for password   # features/step_definitions/login_steps.rb:11
+    When I click on the login button       # features/step_definitions/login_steps.rb:17
+    Then I should see error on page        # features/step_definitions/login_steps.rb:35
+    And I should be on login page          # features/step_definitions/login_steps.rb:41
+
+2 scenarios (2 passed)
+12 steps (12 passed)
+0m18.601s

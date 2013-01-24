@@ -1,0 +1,33 @@
+Installation:
+
+https://github.com/giozom/Cucumber-Test-Framework-for-Newbies/wiki
+
+Install Ruby using Third Party tool - Ruby Installer 
+http://www.ruby-lang.org/en/downloads/  
+http://rubyinstaller.org/downloads/ - Ruby 1.9.3-p374    
+   
+Download RubyMine - IDE for Ruby  
+http://www.jetbrains.com/ruby/index.html  - Used 30 day trail version
+       
+Install Gems:
+Open Windows Command Prompt:                   
+Gem install cucumber
+Gem install rake
+Gem install rspec
+Gem install capybara
+Gem install gizmo
+Gem install win32-process
+Gem install win32console
+Gem install webrat
+Gem install mechanize
+Gem install selenium-webdriver
+Gem Update
+
+
+References Used:
+https://github.com/cucumber/cucumber/wiki
+https://github.com/cucumber/cucumber/wiki/Feature-Introduction
+https://github.com/cucumber/cucumber/wiki/Step-Definitions
+http://blog.jcoglan.com/2009/10/03/getting-started-with-cucumber-rspec-webrat-and-multiruby/
+http://watir.com/2011/01/22/simple-cucumber-watir-page-object-pattern-framework/
+http://qastuffs.blogspot.ca/p/steps-by-steps-guide-to-setup-cucumber.html

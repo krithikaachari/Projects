@@ -1,0 +1,1 @@
+Contains sample projects using Cucumber Test Automation and Seleniux IDE (Firefox add-on).

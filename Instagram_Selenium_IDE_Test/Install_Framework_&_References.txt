@@ -1,0 +1,3 @@
+References:
+
+http://seleniumhq.org/docs/02_selenium_ide.jsp

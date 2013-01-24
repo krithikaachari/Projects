@@ -1,0 +1,83 @@
+# Logfile created on 2013-01-22 15:14:53 -0800 by logger.rb/31641
+D, [2013-01-22T15:14:53.687082 #9676] DEBUG -- : REQUESTING PAGE: GET http://www.google.com/ with {} and HTTP headers {}
+D, [2013-01-22T15:16:37.240436 #5712] DEBUG -- : REQUESTING PAGE: GET http://www.google.com/ with {} and HTTP headers {}
+D, [2013-01-22T15:18:23.248036 #10148] DEBUG -- : REQUESTING PAGE: GET http://www.google.com/ with {} and HTTP headers {}
+D, [2013-01-22T15:20:26.575367 #8232] DEBUG -- : REQUESTING PAGE: GET http://www.google.com/ with {} and HTTP headers {}
+D, [2013-01-22T15:20:34.855195 #5940] DEBUG -- : REQUESTING PAGE: GET http://www.google.com/ with {} and HTTP headers {}
+D, [2013-01-22T15:23:58.572565 #6108] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {}
+D, [2013-01-22T15:24:09.929700 #3688] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {}
+D, [2013-01-22T15:24:10.023710 #3688] DEBUG -- : REQUESTING PAGE: GET /search with [{"ie"=>"ISO-8859-1"}, {"hl"=>"en-CA"}, {"source"=>"hp"}, {"q"=>"JS.Class"}, {"btnG"=>"Google Search"}, {"gbv"=>"1"}] and HTTP headers {"HTTP_REFERER"=>"http://www.google.ca/"}
+D, [2013-01-22T15:25:30.425749 #5000] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {}
+D, [2013-01-22T15:25:30.514758 #5000] DEBUG -- : REQUESTING PAGE: GET /search with [{"ie"=>"ISO-8859-1"}, {"hl"=>"en-CA"}, {"source"=>"hp"}, {"q"=>"JS.Class"}, {"btnG"=>"Google Search"}, {"gbv"=>"1"}] and HTTP headers {"HTTP_REFERER"=>"http://www.google.ca/"}
+D, [2013-01-22T15:27:09.096615 #2212] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {}
+D, [2013-01-22T15:27:09.213627 #2212] DEBUG -- : REQUESTING PAGE: GET /search with [{"ie"=>"ISO-8859-1"}, {"hl"=>"en-CA"}, {"source"=>"hp"}, {"q"=>"JS.Class"}, {"btnG"=>"Google Search"}, {"gbv"=>"1"}] and HTTP headers {"HTTP_REFERER"=>"http://www.google.ca/"}
+D, [2013-01-22T15:28:43.610066 #9508] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {}
+D, [2013-01-22T15:28:43.706075 #9508] DEBUG -- : REQUESTING PAGE: GET /search with [{"ie"=>"ISO-8859-1"}, {"hl"=>"en-CA"}, {"source"=>"hp"}, {"q"=>"JS.Class"}, {"btnG"=>"Google Search"}, {"gbv"=>"1"}] and HTTP headers {"HTTP_REFERER"=>"http://www.google.ca/"}
+D, [2013-01-22T15:30:36.431347 #7096] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {}
+D, [2013-01-22T15:30:36.542358 #7096] DEBUG -- : REQUESTING PAGE: GET /search with [{"ie"=>"ISO-8859-1"}, {"hl"=>"en-CA"}, {"source"=>"hp"}, {"q"=>"JS.Class"}, {"btnG"=>"Google Search"}, {"gbv"=>"1"}] and HTTP headers {"HTTP_REFERER"=>"http://www.google.ca/"}
+D, [2013-01-22T15:31:17.867490 #592] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {}
+D, [2013-01-22T15:31:17.960499 #592] DEBUG -- : REQUESTING PAGE: GET /search with [{"ie"=>"ISO-8859-1"}, {"hl"=>"en-CA"}, {"source"=>"hp"}, {"q"=>"JS.Class"}, {"btnG"=>"Google Search"}, {"gbv"=>"1"}] and HTTP headers {"HTTP_REFERER"=>"http://www.google.ca/"}
+D, [2013-01-22T15:32:18.262529 #5712] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {}
+D, [2013-01-22T15:32:18.357538 #5712] DEBUG -- : REQUESTING PAGE: GET /search with [{"ie"=>"ISO-8859-1"}, {"hl"=>"en-CA"}, {"source"=>"hp"}, {"q"=>"JS.Class"}, {"btnG"=>"Google Search"}, {"gbv"=>"1"}] and HTTP headers {"HTTP_REFERER"=>"http://www.google.ca/"}
+D, [2013-01-22T15:34:21.388840 #5552] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {}
+D, [2013-01-22T15:34:21.473849 #5552] DEBUG -- : REQUESTING PAGE: GET /search with [{"ie"=>"ISO-8859-1"}, {"hl"=>"en-CA"}, {"source"=>"hp"}, {"q"=>"JS.Class"}, {"btnG"=>"Google Search"}, {"gbv"=>"1"}] and HTTP headers {"HTTP_REFERER"=>"http://www.google.ca/"}
+D, [2013-01-22T15:35:47.859486 #3980] DEBUG -- : REQUESTING PAGE: GET http://www.google.com/ with {} and HTTP headers {}
+D, [2013-01-22T15:35:47.907491 #3980] DEBUG -- : REQUESTING PAGE: GET http://www.google.ca/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.google.com/"}
+D, [2013-01-22T15:35:47.984499 #3980] DEBUG -- : REQUESTING PAGE: GET /search with [{"ie"=>"ISO-8859-1"}, {"hl"=>"en-CA"}, {"source"=>"hp"}, {"q"=>"JS.Class"}, {"btnG"=>"Google Search"}, {"gbv"=>"1"}] and HTTP headers {"HTTP_REFERER"=>"http://www.google.ca/"}
+D, [2013-01-22T16:08:50.037869 #6116] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:08:50.302842 #6116] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:10:25.920280 #1424] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:10:26.169255 #1424] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:11:18.386032 #5828] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:11:18.552016 #5828] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:11:42.843586 #5340] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:11:43.094561 #5340] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:11:43.339537 #5340] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:17:16.031330 #1312] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:17:16.284330 #1312] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:17:16.541330 #1312] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:19:03.279330 #8592] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:19:03.780330 #8592] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:19:04.078330 #8592] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:20:03.623330 #5584] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:20:03.793330 #5584] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:20:03.982330 #5584] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:21:45.562880 #6336] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:21:45.866911 #6336] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:21:46.113935 #6336] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:24:13.440666 #3148] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:24:13.743697 #3148] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:24:13.996722 #3148] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:24:50.830405 #1232] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:24:51.058428 #1232] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:24:51.290451 #1232] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:27:02.366557 #6448] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:27:02.616582 #6448] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:27:02.984619 #6448] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:27:57.462066 #2656] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:27:57.629083 #2656] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:27:57.815102 #2656] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:39:20.891407 #5948] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/accounts/login/ with {} and HTTP headers {}
+D, [2013-01-22T16:39:21.110429 #5948] DEBUG -- : REQUESTING PAGE: GET https://instagram.com/accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/accounts/login/"}
+D, [2013-01-22T16:39:46.527971 #8048] DEBUG -- : REQUESTING PAGE: GET https://instagram.com/accounts/login/ with {} and HTTP headers {}
+D, [2013-01-22T16:40:10.542372 #5676] DEBUG -- : REQUESTING PAGE: GET https://instagram.com/accounts/login/ with {} and HTTP headers {}
+D, [2013-01-22T16:40:59.956313 #7052] DEBUG -- : REQUESTING PAGE: GET https://www.instagram.com/accounts/login/ with {} and HTTP headers {}
+D, [2013-01-22T16:41:51.918508 #6752] DEBUG -- : REQUESTING PAGE: GET https://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:42:08.445161 #7236] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:42:08.699186 #7236] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:42:08.957212 #7236] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:42:35.763892 #9552] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:42:35.932909 #9552] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:42:36.108927 #9552] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:44:17.104025 #8428] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:44:17.358051 #8428] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:44:17.743089 #8428] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:45:03.996714 #8556] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:45:04.171732 #8556] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:45:04.348749 #8556] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:48:04.725785 #1692] DEBUG -- : REQUESTING PAGE: GET http://www.instagram.com/ with {} and HTTP headers {}
+D, [2013-01-22T16:48:04.980811 #1692] DEBUG -- : REQUESTING PAGE: GET http://instagram.com/ with {} and HTTP headers {"HTTP_REFERER"=>"http://www.instagram.com/"}
+D, [2013-01-22T16:48:05.223835 #1692] DEBUG -- : REQUESTING PAGE: GET /accounts/login/ with {} and HTTP headers {"HTTP_REFERER"=>"http://instagram.com/"}
+D, [2013-01-22T16:50:42.889720 #10160] DEBUG -- : REQUESTING PAGE: GET https://instagram.com/accounts/login/ with {} and HTTP headers {}
+D, [2013-01-23T09:01:27.138172 #8676] DEBUG -- : REQUESTING PAGE: GET https://instagram.com/accounts/login/ with {} and HTTP headers {}
+D, [2013-01-23T09:38:10.815186 #4508] DEBUG -- : REQUESTING PAGE: GET https://instagram.com/accounts/login/ with {} and HTTP headers {}
